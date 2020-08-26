@@ -1,0 +1,15 @@
+name: Translate
+api: [3.12.0 , 3.0.0, 3.14.2]
+author: sdsd16
+version: 1.0.0
+description: Google翻譯xD
+main: Translate\Main
+
+commands:
+  translate:
+    description: 翻譯
+    permission: OP.command 
+permissions:
+  OP.command:
+    default: op    
+    
